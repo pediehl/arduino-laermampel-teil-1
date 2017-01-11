@@ -1,4 +1,4 @@
-# Arduino: 
+# Arduino: Lärmampel (Teil 1) – Schallpegelmessung
 
 ![](/images/IMG_5605_Beitragsbild-1102x350.jpg)
 
